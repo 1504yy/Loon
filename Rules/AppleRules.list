@@ -1,0 +1,12 @@
+DOMAIN-SUFFIX,hls.itunes.apple.com
+DOMAIN-SUFFIX,hls-amt.itunes.apple.com
+DOMAIN-SUFFIX,audio-ssl.itunes.apple.com
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN,cdn.apple-cloudkit.com
+DOMAIN,devimages-cdn.apple.com
+DOMAIN,devstreaming-cdn.apple.com
+DOMAIN,js-cdn.music.apple.com
+DOMAIN,docs-assets.developer.apple.com
+DOMAIN-SUFFIX,apple-dns.net
+DOMAIN-SUFFIX,ocsp.apple.com
+USER-AGENT,com.apple.trustd*
