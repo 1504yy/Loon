@@ -46,6 +46,7 @@ DOMAIN,apptrailers.itunes.apple.com
 DOMAIN,download.developer.apple.com
 DOMAIN,downloaddispatch.itunes.apple.com
 DOMAIN,app-site-association.cdn-apple.com
+DOMAIN,play-china.itunes-apple.com.akadns.net
 USER-AGENT,%E5%9C%B0%E5%9B%BE*
 USER-AGENT,com.apple.geod*
 USER-AGENT,com.apple.Maps
